@@ -1,0 +1,453 @@
+#EXTM3U
+#EXTINF:0 tvg-country="DE" tvg-logo="https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg" group-title="Undefined",1-2-3 TV
+http://123tv.cdn.ses-ps.com/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24444-2.png" group-title="Undefined",1-2-3 TV (480p)
+http://123tv-mx1.flex-cdn.net/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",13th Street
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/13th.street.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3 Sat
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/3.sat.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",A&E
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ae.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ard.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD-alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8&checkedby?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http" group-title="Undefined",ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/1200px-ARD_alpha.svg.png" group-title="Undefined",ARD-alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ATV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/atv.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",AXN
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Anixe
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/anixe.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Austria : Dorf TV HD,dorf tv
+https://stream.openplayout.org/hls/dorf_high/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" group-title="Undefined",BLK TV
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" group-title="Undefined",BLK TV
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/D5wePo5.jpg" group-title="Undefined",BLK TV Hohenmölsen (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/D5wePo5.jpg" group-title="Undefined",BLK TV Hohenmцlsen
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?&ref=medienportal-sachsen-&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",BR Fernsehen Nord
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8&checkedby?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="Undefined",BR Fernsehen Nord
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",BR Fernsehen Nord HD
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="Undefined",BR Fernsehen Süd (720p)
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Baden TV
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1549?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Baden TV
+http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.iptvdigital.com/images/canal_live/22_canal_live_28_canal_live_baden_tv.png" group-title="Undefined",Baden TV
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/0OoMMbd.png" group-title="Undefined",Bibel TV (720p)
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Boomerang
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/boomerang.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Campus TV Magdeburg
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1557?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Cartoon Network DE
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Chemnitz Fernsehen
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Comedy Central
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/comedy.central.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAZN 1 DE
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/dazn.1.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAZN 2 DE
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/dazn.2.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DE-Offener-Kanal-Magdeburg+
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DMAX
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/dmax.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/17/dstv_Deutshe_Welle_4-3_lightbackground_001_xlrg.png" group-title="News",DW Deutsch (1080p) [Geo-blocked]
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="News",DW Deutsch+ (1080p) [Geo-blocked]
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Undefined",Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Undefined",Das Erste
+https://mcdn.daserste.de/daserste/de/profile1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Undefined",Das Erste (720p),Das Erste (720p) [Geo-blocked]
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Music",Delux Music
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/delux.music.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Disney Cinemagic
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.cinemagic.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Disney Jr
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.jr.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Dresden Fernsehen
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Eurosport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Eurosport 2 xtra
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport2xtra.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="Undefined",Filstalwelle
+http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="Undefined",Filstalwelle (576p)
+http://62.113.210.2/filstalwelle-live/mp4:livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="Undefined",Franken Fernsehen Nьrnberg
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",HR
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hr.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",HSE24
+https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",HaRZ SUED TV  rtm
+rtmp://62.113.210.250/medienasa-live/punktum_high?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Health TV,health.tv
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Junior
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.junior.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AT;DE" tvg-logo="" group-title="Undefined",K-TV
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/882I3h8.png" group-title="Undefined",KW TV Wildau (720p) [Not 24/7]
+https://58af0c57eaf3e.streamlock.net/easycast11-live/mp4:livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Kabel Eins
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/kabel.eins.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KiKA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/kika.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Kinowelt TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/kinowelt.tv.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Undefined",KulturMD (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Undefined",KulturMD (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:kulturmd_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Undefined",KulturMD (1080p)
+http://62.113.210.250/medienasa-live/mp4:kulturmd_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Undefined",KulturMD Magdeburg
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=661069&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/GNMaGZE.png" group-title="Undefined",Lausitzwelle (Fernsehen) (1080p)
+https://5856e1a25f71a.streamlock.net/easycast9-live/mp4:livestreamhd10/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Leipzig Fernsehen
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="Undefined",Light Channel
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/SEeqryT.png" group-title="Undefined",MDF 1
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/SEeqryT.png" group-title="Undefined",MDF 1
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/SEeqryT.png" group-title="Undefined",MDF 1
+http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",MDF.1
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1577?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/SEeqryT.png" group-title="Undefined",MDF.1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://medienportal-sachsen-anhalt.de/uploads/hg/mdf1.png" group-title="Undefined",MDF.1 (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:mdf1_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://medienportal-sachsen-anhalt.de/uploads/hg/mdf1.png" group-title="Undefined",MDF.1 Magdeburg
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=458536&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",MTV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Magdeburg TV DE
+rtmp://62.113.210.250/medienasa-live/ok-magdeburg_high?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Motorvision
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/motorvision.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.1.ch.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.2.ch.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 3
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.3.ch.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.4.ch.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 5
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.5.ch.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 6
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.6.ch.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 7
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.7.ch.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 8
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.8.ch.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 9 CH
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.9.ch.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NDR
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ndr.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NRWISION (1080p)
+https://fms.nrwision.de/live/livestreamHD.stream_source/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="Undefined",NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png" group-title="Undefined",NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="Undefined",NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_360p/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="Undefined",NRWision (1080p)
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NatGeo
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/natgeo.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Nickelodeon
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nickelodeon.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Noa 4 Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Noa 4 Hamburg
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="Undefined",Noa 4 Norderstedt
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="Undefined",Noa 4 Norderstedt
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/BmJaDT3.jpg" group-title="Sport",OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://www.ok-dessau.de/fileadmin/layout/logo_okdessau.jpg" group-title="Undefined",OK Dessau
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8?&ref=www.ok-dessau.de&seid=408238&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png" group-title="Undefined",OK Dessau (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png" group-title="Undefined",OK Dessau (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",OK MAGDEBURG HD
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/kBR5XUI.png" group-title="Undefined",OK Magdeburg
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8?&ref=www.ok-magdeburg.de&seid=771136&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png" group-title="Undefined",OK Magdeburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png" group-title="Undefined",OK Magdeburg (1080p)
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png" group-title="Undefined",OK Magdeburg (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://www.okmq.de/images/logo/logo_neu.png" group-title="Undefined",OK Merseburg
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8?&ref=www.okmq.de&seid=800040&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmerseburg.png" group-title="Undefined",OK Merseburg-Querfurt (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmerseburg.png" group-title="Undefined",OK Merseburg-Querfurt (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://ok-salzwedel.de/wp-content/themes/oksaw/images/logo-home.png" group-title="Undefined",OK Salzwedel
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8?&ref=ok-salzwedel.de&seid=783487&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png" group-title="Undefined",OK Salzwedel (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-salzwedel_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png" group-title="Undefined",OK Salzwedel (1080p) [Not 24/7]
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png" group-title="Undefined",OK Salzwedel (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",OK Salzwedel TV
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/chunklist_w623677241.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png" group-title="Undefined",OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png" group-title="Undefined",OK Stendal (1080p)
+http://62.113.210.250/medienasa-live/ok-stendal_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png" group-title="Undefined",OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png" group-title="Undefined",OK Trier
+https://s.ok54.de/ott/webstream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/8qWX30L.png" group-title="Undefined",OK Weinstrasse Landau
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ORF 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/orf.1.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ORF 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/orf.2.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Oberlausitz TV (1080p) [Not 24/7]
+http://5856e1a25f71a.streamlock.net:1935/easycast8-live/mp4:livestreamhd4/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Oberpfalz TV
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.youngspeech.de/wp-content/gallery/pop10-konzert/d-logode.jpg" group-title="Undefined",Offener Kanal Dessau,pop10
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Offener Kanal Magdeburg
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1587?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png" group-title="Undefined",Offener Kanal Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/BHTsPMP.png" group-title="Undefined",Offener Kanal Magdeburg
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Offener Kanal Salzwedel
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/B5obZtE.png" group-title="Undefined",Offener Kanal Salzwedel
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/punktum.png" group-title="Undefined",PUNKTum (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://www.punktum-fernsehen.de/share/android-icon-192x192.png" group-title="Undefined",PUNKTum Fernsehen (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Parlamentsfernsehen 1
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Parlamentsfernsehen 2
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ProSieben
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/prosieben.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ProSieben Maxx
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/prosieben.maxx.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PunktUM (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://www.punktum-fernsehen.de/share/android-icon-192x192.png" group-title="Undefined",PunktUm Hettstedt
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=824679&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/Zb87dQQ.png" group-title="Undefined",Punkteins (Oberlausitz) (1080p) [Not 24/7]
+https://5852afe96c9bb.streamlock.net/easycast8-live/mp4:livestreamhd4/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ran1.png" group-title="Undefined",RAN1 (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/NUP8ZBb.png" group-title="Undefined",RAN1 Regionalfernsehen
+http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.ran1.de/img/ban1.png" group-title="Undefined",RAN1 Regionalfernsehen (1080p)
+http://62.113.210.250:1935/medienasa-live/mp4:ran1_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.rbwonline.de/img/ban1.png" group-title="Undefined",RBW (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.rbwonline.de/img/ban1.png" group-title="Undefined",RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.rbwonline.de/img/ban1.png" group-title="Undefined",RBW Bitterfeld-Wolfen
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=237997&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfh.png" group-title="Undefined",RFH (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/e/ea/RFH-Logo.svg/200px-RFH-Logo.svg.png" group-title="Undefined",RFH Harz
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=528347&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/e/ea/RFH-Logo.svg/200px-RFH-Logo.svg.png" group-title="Undefined",RFH Harz (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8?ref=medienportal-sachsen-anhalt.de&seid=528347&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RFH TV (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png" group-title="Undefined",RFO Rosenheim
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/YkB39hx.png" group-title="Undefined",RNF
+http://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/YkB39hx.png" group-title="Undefined",RNF
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtl2.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL Crime
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtl.crime.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL Nitro
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtl.nitro.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL plus
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtl.plus.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/ubEUBmB.png" group-title="Music",Radio 21 TV
+http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Rakuten Comedy Movies Germany 2 (720p)
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Rakuten Spotlight Germany 2 (720p)
+https://rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Ran 1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.ran1.de/img/ban1.png" group-title="Undefined",Ran1 Dessau-RoЯlau
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8?&ref=www.ran1.de&seid=201846&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/olVCZTJ.png" group-title="Undefined",Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/G7W4K3K.png" group-title="Undefined",Rheinmain TV
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT.1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sat.1.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SRF 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/srf.1.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SRF 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/srf.2.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SRF Info
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/srf.info.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/Nvw7SaN.png" group-title="Undefined",Saarland 1,Saarland Fernsehen 1
+http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/Nvw7SaN.png" group-title="Undefined",Saarland Fernsehen 1
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" group-title="Undefined",Seenluft24
+https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?=&ref=seenluft24.de&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" group-title="Undefined",Seenluft24 (1080p)
+https://5856e1a25f71a.streamlock.net/easycast7-live/mp4:livestreamhd20/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Sky Action
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.action.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Sky Atlantic
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.atlantic.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Sky Cinema Best Of
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.best.of.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Sky Cinema Classics
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.classics.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Sky Cinema Family
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.family.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Sky Cinema Fun
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.fun.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Sky Cinema Premieren
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.premieren.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Sky Cinema Premieren +24
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.premieren.24.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Sky Cinema Thriller
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.thriller.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Sky Krimi
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.krimi.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.1.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.2.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport Austria
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.austria.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport Bundesliga 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.bundesliga.1.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport News
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.news.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/piwT1HQ.jpg" group-title="Undefined",Sonnenklar.TV
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/jyMedaF.png" group-title="Religious",Sophia TV
+https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/jyMedaF.png" group-title="Religious",Sophia TV (720p)
+https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sport1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport1.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/xCiU1TB.png" group-title="Undefined",Studio 47 (576p) [Not 24/7]
+https://5852afe96c9bb.streamlock.net/studio47-live/mp4:livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Super RTL
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/super.rtl.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Syfy
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/syfy.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TLC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tlc.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TNT Film
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tnt.film.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TNT Serie
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tnt.serie.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TV Allgäu  rtm
+rtmp://tvallgaeu.iptv-playoutcenter.de/tvallgaeu/tvallgaeu.stream?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TV Würzburg
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/wamEY0w.png" group-title="Undefined",TV2 Fyn
+https://cdnapisec.kaltura.com/p/1966291/sp/196629100/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/uiConfId/30288171/a.m3u8?referrer=aHR0cHM6Ly93d3cudHYyZnluLmRr&playSessionId=d59870a6-313c-ead3-3510-cb5123b228f1&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TV38
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1597?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TVA
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TVO
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png" group-title="Undefined",Tide TV (1080p) [Not 24/7]
+https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Universal Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/universal.channel.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",VIVA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/viva.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",VOX
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/vox.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",WDR Fernsehen
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/wdr.fernsehen.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Welt
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/welt.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ZDF
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/zdf.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",arte
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/arte.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/dKCLYAj.png" group-title="Undefined",ems TV Lingen
+https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/dKCLYAj.png" group-title="Undefined",ems TV Lingen (280p)
+https://5889e7d0d6e28.streamlock.net/ev1tv-live/mp4:livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",kulturmdTV
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1575?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://kulturmd.de/images/2018_KMDLogo.png" group-title="Undefined",kulturmdTV
+http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",münchen.tv
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",n-tv
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ntv.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",n24 Doku
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/n24.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/NHvYg7e.png" group-title="Undefined",oeins Oldenburg
+https://www.oeins.de/live/studio.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",pop10
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1589?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png" group-title="Undefined",rheinmaintv
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png" group-title="Undefined",rheinmaintv (720p) [Not 24/7]
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/YBkBDSz.png" group-title="Undefined",rheinmaintv (720p) [Not 24/7]
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/G7W4K3K.png" group-title="Undefined",rheinmaintv (720p) [Not 24/7]
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",sixx
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sixx.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/05UB2YT.png" group-title="Undefined",teltOwkanal (1080p)
+https://5856e1a25f71a.streamlock.net/easycast8-live/mp4:livestreamhd8/playlist.m3u8?checkedby:iptvcat.com
